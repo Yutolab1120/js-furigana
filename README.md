@@ -1,2 +1,2 @@
 # js-furigana
-スラスラ読めるJavaScriptふりがなプログラミングという本用に作成
+"スラスラ読めるJavaScriptふりがなプログラミング" 用に作成
